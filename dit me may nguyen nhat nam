@@ -3,6 +3,11 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/refs/heads/master/Plugins/SpotifyControls/SpotifyControls.plugin.js');
+@import url('https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/refs/heads/master/Plugins/ReadAllNotificationsButton/ReadAllNotificationsButton.plugin.js');
+
+
+
+
 :root {
   --main-color: #FFC107;
   --hover-color: #FFEB3B;
