@@ -1,5 +1,7 @@
 @import url('https://raw.githubusercontent.com/Wh1teCatVN/idk/refs/heads/main/tao%20deo%20biet');
-
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
 :root {
   --main-color: #FFC107;
   --hover-color: #FFEB3B;
@@ -43,7 +45,7 @@
   --user-modal-blur: 3px;
   --home-icon: url('https://imgur.com/VyAgvFE.jpg');
   --home-position: center;
-  --home-size: 40px;
+  --home-size: 60px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
