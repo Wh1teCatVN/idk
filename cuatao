@@ -3,7 +3,7 @@
 @import url(https://nyri4.github.io/Discolored/main.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/ThemeDevBadge.css);
 
-
+:root {
   --main-color: #2780e6;
   --hover-color: #1e63b3;
   --success-color: #43b581;
