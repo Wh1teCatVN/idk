@@ -20,7 +20,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://imgur.com/pw3rZil.jpg');
+  --background-image: url('https://imgur.com/KqzbhWH.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -33,7 +33,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://imgur.com/OOGXUmd.jpg');
+  --user-popout-image: url('https://imgur.com/KqzbhWH.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
