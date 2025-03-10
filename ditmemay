@@ -86,7 +86,7 @@
 @keyframes loaderr{
   to{
     --version      : "tao chi muon noi la dit me may nguyen nhat nam.";
-    --FVUI         : "Error.";
+    --FVUI         : "c0SYUKII la thang bo may day";
     pointer-events : none;
     backdrop-filter: none;
     background     : var(--opacity02b);
